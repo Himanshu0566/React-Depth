@@ -3,12 +3,13 @@ import Chai from "./chai"
 
 
 function App() {
+  const Ate = "At Navneet hause"
 
 
   return (
     <>
       <Chai />
-      <h1>Himanshu Kumar Singh</h1>
+      <h1>Himanshu Kumar Singh {Ate}</h1>
     </>
   )
 }
